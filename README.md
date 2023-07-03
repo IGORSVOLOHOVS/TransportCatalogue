@@ -79,3 +79,7 @@ The project consists of the following main components:
 - `serialization`: Handles serialization of data.
 - `svg`: Generates SVG files for map rendering.
 - `transport_catalogue`: The main application, responsible for managing the transport database and processing requests.
+
+## Dear practicum.yandex.ru team,
+
+Thank you for the excellent C++ development course. It was engaging, informative, and provided me with valuable skills. Grateful for the opportunity to learn with you.
